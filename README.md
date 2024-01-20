@@ -1,7 +1,7 @@
 Landing Page
 This is a landing page built using HTML 5, CSS 3, Bootstrap 5, and Sass.
 
-
+![landing page](https://github.com/23Jm/LandingPage-using-Bootstrap-and-SASS/assets/73573358/28a20dd8-c478-4885-b02e-9937fa321d7b)
 
 Install the following prerequisites:
 
